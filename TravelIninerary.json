@@ -1,0 +1,43 @@
+
+{
+    "tripName": "The Trip to Europe",
+    "traveler": {
+        "name": "John Doe",
+        "contact": {
+            "email": "123@gmail.com",
+            "phone": "123-456-7890"
+        }
+    },
+    "destinations": [
+        {
+            "location": "Paris, France",
+            "arrivalDate": "2025-10-20",
+            "departureDate": "2025-11-01",
+            "activities": [
+                {
+                    "title": "Going to the Louvre",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Going to a cafe",
+                    "time": "12:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Rome, Italy",
+            "arrivalDate": "2025-11-01",
+            "departureDate": "2025-11-11",
+            "activities": [
+                {
+                    "title": "Visinting a winery",
+                    "time": "03:00 PM"
+                },
+                {
+                    "title": "River boat tour",
+                    "time": "07:00 PM"
+                }
+            ]
+        }
+    ]
+}
