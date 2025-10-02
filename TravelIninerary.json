@@ -13,6 +13,10 @@
             "location": "Paris, France",
             "arrivalDate": "2025-10-20",
             "departureDate": "2025-11-01",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 150
+            },
             "activities": [
                 {
                     "title": "Going to the Louvre",
@@ -21,6 +25,10 @@
                 {
                     "title": "Going to a cafe",
                     "time": "12:00 PM"
+                },
+                {
+                    "title": "Eiffel Tower Visit",
+                    "time": "12:00 AM"
                 }
             ]
         },
@@ -28,14 +36,26 @@
             "location": "Rome, Italy",
             "arrivalDate": "2025-11-01",
             "departureDate": "2025-11-11",
+            "transportation": {
+                "mode": "Bus",
+                "cost": 100
+            },
             "activities": [
                 {
-                    "title": "Visinting a winery",
+                    "title": "Visiting a winery",
                     "time": "03:00 PM"
                 },
                 {
                     "title": "River boat tour",
                     "time": "07:00 PM"
+                },
+                {
+                    "title": "Colosseum Guided Tour",
+                    "time": "11:00 AM"
+                },
+                {
+                    "title": "Vatican City Exploration",
+                    "time": "5:00 PM"
                 }
             ]
         }
