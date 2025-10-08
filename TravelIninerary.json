@@ -56,7 +56,26 @@
                 {
                     "title": "Vatican City Exploration",
                     "time": "5:00 PM"
-                }
+                },
+                {
+      "location": "Barcelona, Spain",
+      "arrivalDate": "2025-06-21",
+      "departureDate": "2025-06-26",
+      "transportation": {
+        "mode": "Flight",
+        "cost": 180.00
+      },
+      "activities": [
+        {
+          "title": "Sagrada Família Visit",
+          "time": "9:00 AM"
+        },
+        {
+          "title": "Beach Day at Barceloneta",
+          "time": "2:00 PM"
+        }
+      ]
+    }
             ]
         }
     ]
